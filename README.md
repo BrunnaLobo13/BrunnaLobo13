@@ -1,36 +1,45 @@
-<!-- Header -->
+<!-- Banner futurista aqui depois 🚀 -->
+
+<h1 align="center">👩‍💻 Brunna La Loba</h1>
+<p align="center">
+Front-End Developer | React • Next.js • React Native | UI lover • Performance Driven
+</p>
+
+---
+
+### 🚀 Github Stats
 <div align="center">
-  <img src="https://img.shields.io/badge/Brunna%20Lôbo-Front--End%20Developer-7E22CE?style=for-the-badge&logo=react&logoColor=white" />
-  <h1>👋 Oi, eu sou a Brunna Lôbo!</h1>
-  <p><em>Front-End Developer focada em performance, design system e experiências digitais consistentes — do web ao mobile.</em></p>
+  <a href="https://github.com/BrunnaLobo13">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunnaLobo13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnaLobo13&layout=compact&langs_count=10&theme=tokyonight"/>
+  </a>
 </div>
 
 ---
 
+### 🛠️ Tecnologias que uso no dia a dia
 
-Sou **Desenvolvedora Front-End** que conecta design e tecnologia para criar interfaces fluidas, acessíveis e consistentes.
-
-- 🎨 Cuido da estética, da usabilidade e das microinterações com a mesma atenção que dou ao código.
-- 🧩 Gosto de estruturar projetos escaláveis, com **arquitetura de componentes, design system e código limpo**.
-- 🚀 Atualmente trabalho com **React, Next.js, React Native, Tailwind e shadcn/ui**, desenvolvendo produtos digitais focados em experiência do usuário e evolução contínua.
-
-> Acredito que o front-end é a ponte entre engenharia, design e negócio — e é aí que eu gosto de construir.
----
-
-## 🧩 Stack & Tecnologias
-
-<div align="center">
-
-| **Categoria** | **Ferramentas & Tecnologias** |
-|----------------|--------------------------------|
-| 🖥️ **Front-End** | React • Next.js • TypeScript • JavaScript • Vite |
-| 🎨 **UI & Design System** | Tailwind CSS • shadcn/ui • Material UI • Sass/Less • Framer Motion |
-| 📱 **Mobile** | React Native • Expo |
-| ⚙️ **Integrações & Dados** | Axios • Redux • React Query • Firebase • REST APIs |
-| 🧪 **Qualidade & Testes** | Jest • Testing Library • ESLint • Prettier • Husky |
-| 🧰 **DevOps & Ferramentas** | Git • GitHub • Vercel • Docker • CI/CD |
-
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="TS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Next" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="filter: invert(100%);"/>
+  <img align="center" alt="Tailwind" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img align="center" alt="Node" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 
 ---
 
+### ✨ Sobre mim
+- 🌱 Construindo produtos com propósito  
+- 🔮 Amante de interfaces fluidas e acessíveis  
+- 🧠 Explorando IA no Front-end  
+- 🚀 Buscando vaga internacional (Pleno até Dez/2025)  
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunnaLobo13&theme=tokyonight" />
+</div>
+
+---
