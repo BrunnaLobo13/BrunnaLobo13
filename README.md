@@ -82,15 +82,6 @@ Este perfil reúne:
 
 ---
 
-## Estatísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunnaLobo13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnaLobo13&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## Contribuição contínua
 
 <div align="center">
