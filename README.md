@@ -99,15 +99,6 @@ Este perfil reúne:
 
 ---
 
-## Contato
-
-- GitHub: **@BrunnaLobo13**
-- Email: **brunnawolf13@gmail.com**
-- LinkedIn: **adicione seu link**
-- Portfólio: **em construção**
-
----
-
 <div align="center">
   <sub>Interface, quando bem construída, não enfeita o produto. Sustenta.</sub>
 </div>
